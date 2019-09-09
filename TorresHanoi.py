@@ -1,7 +1,6 @@
 #Haremos un programa con las Torres de Hanoi.
 #Marcaremos primero el pilar inicial, y definiremos dos mas, vacios, que seran los que se empezaran a llenar
 p_inicial = [5,4,3,2,1]
-n = len(p_inicial)
 pilar1 = []
 pilar2 = []
 
